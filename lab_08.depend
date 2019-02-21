@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1542765486 source:c:\users\me\desktop\school\uni\code (c++)\nov19\lab_08\lab08_book.cpp
+	<iostream>
+	"lab08_book.hpp"
+
+1542739790 c:\users\me\desktop\school\uni\code (c++)\nov19\lab_08\lab08_book.hpp
+	<iostream>
+
+1542765741 source:c:\users\me\desktop\school\uni\code (c++)\nov19\lab_08\lab08_library.cpp
+	<iostream>
+	<vector>
+	"lab08_library.hpp"
+	"lab08_book.hpp"
+
+1542765672 c:\users\me\desktop\school\uni\code (c++)\nov19\lab_08\lab08_library.hpp
+	"lab08_book.hpp"
+	<iostream>
+	<vector>
+
+1542765885 source:c:\users\me\desktop\school\uni\code (c++)\nov19\lab_08\main.cpp
+	<iostream>
+	"lab08_book.hpp"
+	"lab08_library.hpp"
+
